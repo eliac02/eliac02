@@ -38,17 +38,9 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/eliac02" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-eliac02-000?style=for-the-badge&logo=github&logoColor=green" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://reddit.com/user/eliacortesi02" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-profile-red?style=for-the-badge&logo=reddit&logoColor=orange" alt="Reddit">
-  </a>
-</p>
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/eliacortesi02)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=infomaniak&logoColor=white)](mailto:eliacortesi@etik.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliacortesi)
 
 ---
 
