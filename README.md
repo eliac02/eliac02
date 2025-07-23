@@ -53,5 +53,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+hacking.+Always+learning.;Restoring+retro+tech+one+ThinkPad+at+a+time.;Linux+inside+%F0%9F%90%A7" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+hacking.+Always+learning.;Linux+inside+%F0%9F%90%A7" alt="Typing SVG">
 </p>
