@@ -40,7 +40,7 @@
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logoColor=white)](https://www.reddit.com/user/eliacortesi02)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logoColor=white&color=light-blue)](mailto:eliacortesi@etik.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliacortesi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliacortesi)
 
 ---
 
